@@ -1,3 +1,6 @@
+## Time Taken
+Time taken to complete this is approximately around 3 hours in totaled of development on and off during free time
+
 # To install and setup the environment is pretty simple
 ## Requirements
 - Composer
